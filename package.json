@@ -37,7 +37,7 @@
     "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",
     "eslint": "^5.1.0",
-    "eslint-config-prettier": "^2.7.0",
+    "eslint-config-prettier": "^3.0.1",
     "eslint-plugin-eslint-plugin": "^1.4.0",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-prettier": "^2.3.1",
